@@ -1,0 +1,13 @@
+//
+//  MJTextImageView.h
+//  0413-01基本图形绘制
+//
+//  Created by Yin Liang on 2015-03-07.
+//  Copyright (c) 2015 Yin Liang. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface MJTextImageView : UIView
+
+@end
